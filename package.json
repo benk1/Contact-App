@@ -1,6 +1,6 @@
 {
   "name": "contact-app",
-  "homepage": "https://benk1.github.io/Contact-App/",
+  "homepage": "https://my-json-server.typicode.com/benk1/contact-JsonServer",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -23,7 +23,8 @@
     "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "server": "npx json-server --watch public/db.json --port=3001"
   },
   "eslintConfig": {
     "extends": [
