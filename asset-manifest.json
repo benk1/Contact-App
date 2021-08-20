@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/contact-App/static/css/main.c5ce2842.chunk.css",
-    "main.js": "/contact-App/static/js/main.93dafc99.chunk.js",
-    "main.js.map": "/contact-App/static/js/main.93dafc99.chunk.js.map",
-    "runtime-main.js": "/contact-App/static/js/runtime-main.cabb29e3.js",
-    "runtime-main.js.map": "/contact-App/static/js/runtime-main.cabb29e3.js.map",
-    "static/js/2.f5e2c464.chunk.js": "/contact-App/static/js/2.f5e2c464.chunk.js",
-    "static/js/2.f5e2c464.chunk.js.map": "/contact-App/static/js/2.f5e2c464.chunk.js.map",
-    "static/js/3.065e9aec.chunk.js": "/contact-App/static/js/3.065e9aec.chunk.js",
-    "static/js/3.065e9aec.chunk.js.map": "/contact-App/static/js/3.065e9aec.chunk.js.map",
-    "index.html": "/contact-App/index.html",
-    "static/css/main.c5ce2842.chunk.css.map": "/contact-App/static/css/main.c5ce2842.chunk.css.map",
-    "static/js/2.f5e2c464.chunk.js.LICENSE.txt": "/contact-App/static/js/2.f5e2c464.chunk.js.LICENSE.txt",
-    "static/media/user.73a0bc1f.png": "/contact-App/static/media/user.73a0bc1f.png"
+    "main.css": "/benk1/contact-JsonServer/static/css/main.c5ce2842.chunk.css",
+    "main.js": "/benk1/contact-JsonServer/static/js/main.93dafc99.chunk.js",
+    "main.js.map": "/benk1/contact-JsonServer/static/js/main.93dafc99.chunk.js.map",
+    "runtime-main.js": "/benk1/contact-JsonServer/static/js/runtime-main.5f4abc4f.js",
+    "runtime-main.js.map": "/benk1/contact-JsonServer/static/js/runtime-main.5f4abc4f.js.map",
+    "static/js/2.f5e2c464.chunk.js": "/benk1/contact-JsonServer/static/js/2.f5e2c464.chunk.js",
+    "static/js/2.f5e2c464.chunk.js.map": "/benk1/contact-JsonServer/static/js/2.f5e2c464.chunk.js.map",
+    "static/js/3.065e9aec.chunk.js": "/benk1/contact-JsonServer/static/js/3.065e9aec.chunk.js",
+    "static/js/3.065e9aec.chunk.js.map": "/benk1/contact-JsonServer/static/js/3.065e9aec.chunk.js.map",
+    "index.html": "/benk1/contact-JsonServer/index.html",
+    "static/css/main.c5ce2842.chunk.css.map": "/benk1/contact-JsonServer/static/css/main.c5ce2842.chunk.css.map",
+    "static/js/2.f5e2c464.chunk.js.LICENSE.txt": "/benk1/contact-JsonServer/static/js/2.f5e2c464.chunk.js.LICENSE.txt",
+    "static/media/user.73a0bc1f.png": "/benk1/contact-JsonServer/static/media/user.73a0bc1f.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.cabb29e3.js",
+    "static/js/runtime-main.5f4abc4f.js",
     "static/js/2.f5e2c464.chunk.js",
     "static/css/main.c5ce2842.chunk.css",
     "static/js/main.93dafc99.chunk.js"
