@@ -1,0 +1,40 @@
+.main {
+  margin-top: 5em;
+}
+
+.center {
+  justify-content: center;
+  padding: 10px;
+}
+
+.ui.search input {
+  width: 100%;
+  border-radius: 0 !important;
+}
+
+.item {
+  display: flex;
+
+  
+}
+
+i.icon {
+  float: right;
+  font-size: 20px;
+  cursor: pointer;
+}
+img {
+  height: 40px;
+  width: 40px;
+}
+.contactsLength {
+  text-align: center;
+  color: blue;
+}
+.prompt {
+  text-align: center;
+}
+
+.search {
+  text-align: center;
+}
